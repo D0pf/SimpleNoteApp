@@ -1,0 +1,14 @@
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\bin\Debug\net9.0\Noteapp.exe
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\bin\Debug\net9.0\Noteapp.deps.json
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\bin\Debug\net9.0\Noteapp.runtimeconfig.json
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\bin\Debug\net9.0\Noteapp.dll
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\bin\Debug\net9.0\Noteapp.pdb
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\obj\Debug\net9.0\Noteapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\obj\Debug\net9.0\Noteapp.AssemblyInfoInputs.cache
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\obj\Debug\net9.0\Noteapp.AssemblyInfo.cs
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\obj\Debug\net9.0\Noteapp.csproj.CoreCompileInputs.cache
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\obj\Debug\net9.0\Noteapp.dll
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\obj\Debug\net9.0\refint\Noteapp.dll
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\obj\Debug\net9.0\Noteapp.pdb
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\obj\Debug\net9.0\Noteapp.genruntimeconfig.cache
+C:\Users\pfenn\source\repos\Noteapp\Noteapp\obj\Debug\net9.0\ref\Noteapp.dll
