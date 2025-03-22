@@ -1,0 +1,45 @@
+# Build-Ordner
+bin/
+obj/
+
+# Output-Dateien
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.tmp
+
+# User- und Umgebungs-spezifische Dateien
+*.user
+*.vs/
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+*.nuget.cache
+
+# IDE-Tools
+_ReSharper*/
+*.DotSettings.user
+
+# Auto-generierte Dateien (z. B. durch Source Generators)
+*.g.cs
+*.g.i.cs
+*.AssemblyAttributes.cs
+*.editorconfig
+*.genruntimeconfig.cache
+
+# Rider & JetBrains
+.idea/
+
+# Sonstiges
+*.suo
+*.userosscache
+*.sln.docstates
